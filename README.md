@@ -63,8 +63,8 @@ Este proyecto genera dos archivos al finalizar:
 Instala las dependencias con:
 
 ```bash
-pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```
 ## 🚀 ¿Cómo usar?
 
 Ejecuta el notebook `inteligencia-negocios-geoespacial.ipynb` en Jupyter o Colab.
