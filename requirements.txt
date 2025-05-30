@@ -1,0 +1,8 @@
+pandas
+openrouteservice
+google-generativeai
+folium
+shapely
+geopandas
+openpyxl
+jupyter
