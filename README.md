@@ -72,4 +72,4 @@ Ejecuta el notebook `inteligencia-negocios-geoespacial.ipynb` en Jupyter o Colab
 ## 📬 ¿Quieres ver más proyectos como este?
 
 📌 Sígueme en [LinkedIn](https://www.linkedin.com/in/larry-humpiri-obregon-565145189/)   
-📷 Instagram / TikTok: [@tuusuario](https://instagram.com/lionho26) 
+📷 Instagram / TikTok: [@lionho26](https://instagram.com/lionho26) 
